@@ -29,9 +29,8 @@
       }
     }
   }
-  // tester comment
-  function // tester comment
-  date() {
+
+  function date() {
     if (typeof window !== "undefined") {
       window.scrollTo(0, 0);
     }
