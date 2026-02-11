@@ -110,7 +110,7 @@
 />
 
 <div class="game-container" ondblclick={toggleFullscreen} role="application">
-  <div class="score">Scoreee: {score}</div>
+  <div class="score">Score: {score}</div>
   <div class="player" style:transform="translate({x}px, {y}px)"></div>
   <div class="coin" style:transform="translate({coinX}px, {coinY}px)"></div>
 </div>
