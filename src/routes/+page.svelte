@@ -117,8 +117,8 @@
 
 <style>
   :global(html, body, *) {
-    /* background: #0f172a; */
-    background: #300000;
+    background: #0f172a;
+    /* background: #300000; */
     margin: 0;
     padding: 0;
     overflow: hidden;
